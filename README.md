@@ -13,4 +13,3 @@
 
     http://localhost:8000/admin 
 
-![image](https://user-images.githubusercontent.com/64692097/83952034-8ed07700-a853-11ea-8b4d-01e45866aed0.png)
